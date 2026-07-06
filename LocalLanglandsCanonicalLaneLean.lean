@@ -1,0 +1,7 @@
+-- This module is the root of the LocalLanglandsCanonicalLaneLean Lean proof package.
+import LocalLanglandsCanonicalLaneLean.Basic
+import LocalLanglandsCanonicalLaneLean.SourcePackage
+import LocalLanglandsCanonicalLaneLean.SourceDependencies
+import LocalLanglandsCanonicalLaneLean.Formalization
+import LocalLanglandsCanonicalLaneLean.ReviewerBridge
+import LocalLanglandsCanonicalLaneLean.TheoremStatement
