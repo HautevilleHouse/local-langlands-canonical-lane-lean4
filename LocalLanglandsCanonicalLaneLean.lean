@@ -5,3 +5,4 @@ import LocalLanglandsCanonicalLaneLean.SourceDependencies
 import LocalLanglandsCanonicalLaneLean.Formalization
 import LocalLanglandsCanonicalLaneLean.ReviewerBridge
 import LocalLanglandsCanonicalLaneLean.TheoremStatement
+import LocalLanglandsCanonicalLaneLean.MathlibStatement
